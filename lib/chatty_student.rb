@@ -9,7 +9,7 @@ class ChattyStudent < Student  #inherit
  
   def raise_hand
     super
-    puts  super * 10 
+    puts  super.10.times 
   end 
 
 end 
