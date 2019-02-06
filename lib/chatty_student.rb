@@ -9,7 +9,7 @@ class ChattyStudent < Student  #inherit
  
   def raise_hand
     super
-    puts  raise_hand  { |hand|
+    puts  raise_hand.10  { |hand|
   end 
 
 end 
