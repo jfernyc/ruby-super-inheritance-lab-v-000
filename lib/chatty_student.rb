@@ -9,8 +9,7 @@ class ChattyStudent < Student  #inherit
  
   def raise_hand
     super
-     10.times do 
-       return raise_hand
+    
   end 
 
 end 
